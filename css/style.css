@@ -655,7 +655,7 @@ body h2 {
 .section04 .inner .slickslide02 .slider02 .slick-prev {
     width: 30px;
     height: 60px;
-    background: url(/img/slide_Arrow_Left.png);
+    background: url(../img/slide_Arrow_Left.png);
     background-repeat: no-repeat;
     background-size: 100%;
     position: absolute;
@@ -671,7 +671,7 @@ body h2 {
 .section04 .inner .slickslide02 .slider02 .slick-next {
     width: 30px;
     height: 60px;
-    background: url(/img/slide_Arrow_right.png);
+    background: url(../img/slide_Arrow_right.png);
     background-repeat: no-repeat;
     background-size: 100%;
     position: absolute;
